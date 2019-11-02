@@ -10,3 +10,4 @@ as well as the Lighting Model.
 Machine Learning- Contains python implementations of machine learning algorithms, including 
 Radial Basis Functions and soft-margin support vector machine. 
 
+C Projects- C implementations of an aging queue for scheduling tasks and a simple memory allocator.
