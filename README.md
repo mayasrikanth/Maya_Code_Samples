@@ -8,6 +8,6 @@ Graphics Projects- Contains implementation of shaded rendering using Phong and G
 as well as the Lighting Model.
 
 Machine Learning- Contains python implementations of machine learning algorithms, including 
-Radial Basis Functions and soft-margin support vector machine. 
+Radial Basis Functions and both hard-margin and soft-margin SVM. 
 
 C Projects- C implementations of an aging queue for scheduling tasks and a simple memory allocator.
