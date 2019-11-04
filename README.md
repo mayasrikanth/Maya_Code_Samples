@@ -2,7 +2,9 @@
 Code from various personal, research, and academic projects. 
 
 
-Matlab Projects- Contains implementation of K-means clustering algorithm in Matlab.
+Matlab Projects- Contains implementation of K-means clustering algorithm in Matlab, and
+figures of the clustering obtained from the implementation, as well as the clustering 
+obtained from Matlab's in-built K-means. 
 
 Graphics Projects- Contains implementation of shaded rendering using Phong and Gouraud algorithms
 and the Lighting Model, as well as code to utilize openGL API to render shaded objects 
